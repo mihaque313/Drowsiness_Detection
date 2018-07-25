@@ -13,8 +13,7 @@ Instructions
 
 To run this project:
 
-1. decompress drwsiness_detection.zip
-2. go to folder drwsiness_detection
-3. open command promt there
+1. Go to project folder
+3. open terminal/command prompt there
 4. run the project using the following command:
   	python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat --alarm alarm.wav
